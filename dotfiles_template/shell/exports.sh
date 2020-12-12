@@ -23,7 +23,7 @@ export path=(
   "/usr/bin"
   "/usr/sbin"
   "/sbin"
-  "/Users/chenry/Java/android-sdk-macosx/platform-tools
+  "/Users/chenry/Java/android-sdk-macosx/platform-tools"
   "/Users/chenry/Java/flutter/bin"
   "/Users/chenry/Java/ngrok"
   "/Users/chenry/Java/terraform"
